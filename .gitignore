@@ -1,0 +1,17 @@
+# FOLDERS
+node_modules/
+.idea/
+.vscode/
+bin/
+logs/
+public/
+dist/
+output/
+
+# FILES
+pages/env.js
+.env
+*.log
+npm-debug.*
+debug.*
+dump.*
